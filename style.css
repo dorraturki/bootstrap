@@ -1,0 +1,42 @@
+.col-12 {
+    height: 30px;
+}
+.red {
+    background-color: rgb(172, 0, 0);
+}
+.green {
+    background-color: rgb(0, 78, 0);
+}
+.green1 {
+    background-color: green;
+}
+.green2 {
+    background-color: rgb(0, 167, 0);
+}
+div {
+    text-align: center;
+    color: white;
+    font-size: larger;
+}
+.yellow {
+    background-color: rgb(231, 208, 0);
+}
+.blue {
+    background-color: teal;
+}
+.Abox {
+    display: flex;
+    min-height: 400px;
+    flex-wrap: wrap;
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.Mbox {
+    height: 140px;
+}
+.Wbox {
+    height: 400px;
+}
+.SW {
+    height: 50px;
+}
